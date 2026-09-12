@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+
+background-color: purple;
+font-family: Arial sans-serif;
+font-size: 20px;
+
+}
+
+h1{
+    color: gold;
+    
+}
+
+h2{
+    color : whitesmoke;
+}
+
+p{
+    color : whitesmoke;
+    text-align: justify;
+}
+
+ul{
+    color: whitesmoke;
+    text-align: justify;
+}
+
+ul{
+    color: whitesmoke;
+    text-align: justify;
+}
+
+a{
+    background-color: gold;
+    color: black;
+}
